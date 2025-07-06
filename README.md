@@ -1,4 +1,4 @@
-# TareaINFO088
+# Tarea 2 INFO088
 Tarea en la que se pondra a prueba el conocimiento de estructuras de datos y algoritmos aprendidos durante el semestre.
 
 La carpeta Lab-Ejemplo es una guia para hacer la medicion de los tiempos de ejecucion del programa, eviten modificar el contenido de esta carpeta.
